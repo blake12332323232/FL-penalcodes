@@ -612,7 +612,8 @@ code,title,type,bondType,bondAmount,jailTime
 861.08,Obstructing County Roads,Misdemeanor,Surety Bond,500,60D
 861.09,Prohibited Vehicles on Hard‑Surfaced Roads,Misdemeanor,Citation Release,250,30D
 861.11,Cutting Shade Trees Along Roads,Misdemeanor,Surety Bond,500,60D
-861.12,Road Official Neglecting Duty,Misdemeanor,Surety Bond,500,60D865.02,Falsely Shipping Fruit as Florida-Grown,Misdemeanor,Surety Bond,500,60D
+861.12,Road Official Neglecting Duty,Misdemeanor,Surety Bond,500,60D
+865.02,Falsely Shipping Fruit as Florida-Grown,Misdemeanor,Surety Bond,500,60D
 865.05,Selling Plants or Trees Under False Name,Misdemeanor,Surety Bond,500,60D
 865.07,Adulterated Syrup,Misdemeanor,Surety Bond,500,60D
 865.08,Unlawful Purchase of Cotton or Leaf Tobacco,Misdemeanor,Surety Bond,500,60D
